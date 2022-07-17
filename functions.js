@@ -1,4 +1,4 @@
-import {saludos, num} from './objects.js'
+import {saludos, num} from 'https://raw.githubusercontent.com/ErosSense1/chat-bot/main/objects.js'
 let texto = document.getElementById("text");
 
 function msg(){
